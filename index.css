@@ -48,7 +48,7 @@ nav li:first-child {
     position: fixed;
     top: 0;
     right: 0;
-    height: 26vh;
+    height: 70vh;
     width: 250px;
     z-index: 999;
     background: rgba(120, 151, 236, 0.096);
